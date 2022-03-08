@@ -1,4 +1,4 @@
-import styled from '@emotion/styled'
+import styled from '@emotion/styled';
 import { useState, useEffect } from 'react';
 
 import useSelectMonedas from '../hooks/useSelectMonedas';
