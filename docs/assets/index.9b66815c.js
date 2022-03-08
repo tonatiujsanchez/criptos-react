@@ -79,7 +79,7 @@ import{j as h,n as r,r as l,R as C,a as S}from"./vendor.fc1b8121.js";const I=fun
     span{
         margin-left: 10px;
     }
-`,O=({cotizacion:i})=>{const{PRICE:s,HIGHDAY:a,LOWDAY:c,CHANGEPCT24HOUR:e,IMAGEURL:t,LASTUPDATE:d}=i;return n(M,{children:[o(R,{src:`https://www.cryptocompare.com/${t}`,alt:""}),o("div",{className:"resultado-info",children:n("div",{children:[n(N,{children:[" Precio: ",o("span",{children:s})," "]}),n(u,{children:[" Precio m\xE1s alto del d\xEDa: ",o("span",{children:a})," "]}),n(u,{children:[" Precio m\xE1s bajo del d\xEDa: ",o("span",{children:c})," "]}),n(u,{children:[" Variaci\xF3n \xFAltimas 24 hrs.: ",n("span",{children:[e,"%"]})," "]}),n(u,{children:[" \xDAltima actualizaci\xF3n: ",o("span",{children:d})," "]})]})})]})};var U="/assets/imagen-criptos.c0430b0f.png";const H=r.div`
+`,O=({cotizacion:i})=>{const{PRICE:s,HIGHDAY:a,LOWDAY:c,CHANGEPCT24HOUR:e,IMAGEURL:t,LASTUPDATE:d}=i;return n(M,{children:[o(R,{src:`https://www.cryptocompare.com/${t}`,alt:""}),o("div",{className:"resultado-info",children:n("div",{children:[n(N,{children:[" Precio: ",o("span",{children:s})," "]}),n(u,{children:[" Precio m\xE1s alto del d\xEDa: ",o("span",{children:a})," "]}),n(u,{children:[" Precio m\xE1s bajo del d\xEDa: ",o("span",{children:c})," "]}),n(u,{children:[" Variaci\xF3n \xFAltimas 24 hrs.: ",n("span",{children:[e,"%"]})," "]}),n(u,{children:[" \xDAltima actualizaci\xF3n: ",o("span",{children:d})," "]})]})})]})};var U="./assets/imagen-criptos.c0430b0f.png";const H=r.div`
   max-width: 900px;
   margin: auto;
   width: 90%;
